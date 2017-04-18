@@ -8,4 +8,6 @@
 
 [Assignment Week 5](https://github.com/enriquegestayhupje/assignments/blob/master/Assignment_week_5%20(1).ipynb)
 
+[assignment Week 6](https://github.com/enriquegestayhupje/assignments/blob/master/assignment4.ipynb)
+
 Assignments Enrique Gesta Y Hupje
