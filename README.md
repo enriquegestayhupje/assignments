@@ -15,6 +15,4 @@
 [Final Assignment R By Enrique Gesta and Jasmin Kareem](https://github.com/enriquegestayhupje/assignments/blob/master/OECD_R_exam%2B%25282%2529.ipynb)
 
 [python final assignment made by Enrique Gesta and Jasmin Kareem](https://github.com/enriquegestayhupje/assignments/blob/master/Final_Assignment_Python_1_students%2B%25283%2529.ipynb)
-Assignments Made By:
 
-Enrique Gesta Y Hupje
